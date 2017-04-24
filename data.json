@@ -1,0 +1,65 @@
+{"scores":{
+    "mround1":{
+	"game1": { "playerA":"蘇傳光", "playerB":"侯驊祐", "scoreA":0, "scoreB":0},
+	"game2": { "playerA":"孔祥恩", "playerB":"陳冠宇", "scoreA":0, "scoreB":0}
+    },
+    "mround2":{
+	"game3": { "playerA":"林成蔚", "playerB":"張右新", "scoreA":0, "scoreB":0},
+	"game4": { "playerA":"蔡秉諭", "playerB":"張博閔", "scoreA":0, "scoreB":0},
+	"game5": { "playerA":"林奕昇", "playerB":"林子揚", "scoreA":0, "scoreB":0},
+	"game6": { "playerA":"黃兆嘉", "playerB":"一", "scoreA":0, "scoreB":0},
+	"game7": { "playerA":"林澈", "playerB":"二", "scoreA":0, "scoreB":0},
+	"game8": { "playerA":"徐可軒", "playerB":"李奕勳", "scoreA":0, "scoreB":0},
+	"game9": { "playerA":"郭泓鑫", "playerB":"曾琮翔", "scoreA":0, "scoreB":0},
+	"game10": { "playerA":"陳品勳", "playerB":"蔡林峻", "scoreA":0, "scoreB":0}
+    },
+    "mround3":{
+	"game11": { "playerA":"三", "playerB":"四", "scoreA":0, "scoreB":0},
+	"game12": { "playerA":"五", "playerB":"六", "scoreA":0, "scoreB":0},
+	"game13": { "playerA":"七", "playerB":"八", "scoreA":0, "scoreB":0},
+	"game14": { "playerA":"九", "playerB":"十", "scoreA":0, "scoreB":0}
+    },
+    "mround4":{
+	"game15": { "playerA":"十一", "playerB":"十二", "scoreA":0, "scoreB":0},
+	"game16": { "playerA":"十三", "playerB":"十四", "scoreA":0, "scoreB":0}
+    },
+    "mround5":{
+	"game17": { "playerA":"季", "playerB":"殿", "scoreA":0, "scoreB":0},
+	"game18": { "playerA":"冠", "playerB":"亞", "scoreA":0, "scoreB":0}
+    },
+    "ground1":{
+	"game1": { "playerA":"張庭", "playerB":"吳秉諭", "scoreA":0, "scoreB":0},
+	"game2": { "playerA":"許祐潔", "playerB":"李誼君", "scoreA":0, "scoreB":0},
+	"game3": { "playerA":"楊俐妍", "playerB":"馬霈洵", "scoreA":0, "scoreB":0},
+	"game4": { "playerA":"陳孟汝", "playerB":"陳憶萱", "scoreA":0, "scoreB":0}
+    },
+    "ground2":{
+	"game5": { "playerA":"李聖涵", "playerB":"一", "scoreA":0, "scoreB":0},
+	"game6": { "playerA":"林莉雯", "playerB":"二", "scoreA":0, "scoreB":0},
+	"game7": { "playerA":"張映瑄", "playerB":"三", "scoreA":0, "scoreB":0},
+	"game8": { "playerA":"林映齡", "playerB":"四", "scoreA":0, "scoreB":0}
+    },
+    "ground3":{
+	"game9": { "playerA":"五", "playerB":"六", "scoreA":0, "scoreB":0},
+	"game10": { "playerA":"七", "playerB":"八", "scoreA":0, "scoreB":0}
+    },
+    "ground4":{
+	"game11": { "playerA":"季", "playerB":"殿", "scoreA":0, "scoreB":0},
+	"game12": { "playerA":"冠", "playerB":"亞", "scoreA":0, "scoreB":0}
+    },
+    "tround1":{
+	"game1": { "playerA":"環工系隊", "playerB":"博閔好美好可愛  啊~~~~", "scoreA":0, "scoreB":0},
+	"game2": { "playerA":"電機棒棒", "playerB":"電子廢天王", "scoreA":0, "scoreB":0},
+	"game3": { "playerA":"財金系隊", "playerB":"一", "scoreA":0, "scoreB":0},
+	"game4": { "playerA":"懶叫吼告嘎", "playerB":"二", "scoreA":0, "scoreB":0},
+	"game5": { "playerA":"三", "playerB":"四", "scoreA":0, "scoreB":0}
+    },
+    "tround2":{
+	"game1": { "playerA":"A敗", "playerB":"B敗", "scoreA":0, "scoreB":0},
+	"game2": { "playerA":"C敗", "playerB":"D敗", "scoreA":0, "scoreB":0},
+	"game3": { "playerA":"五", "playerB":"六", "scoreA":0, "scoreB":0},
+	"game4": { "playerA":"E敗", "playerB":"七", "scoreA":0, "scoreB":0}
+    }
+}
+
+}
